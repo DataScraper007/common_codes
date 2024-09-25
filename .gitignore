@@ -1,0 +1,5 @@
+*.xlsx
+/.idea/
+/csvs
+/csvs_
+/output_folder
